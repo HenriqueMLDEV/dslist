@@ -19,8 +19,6 @@ A aplicação consiste em uma pesquisa e listagem de uma lista de jogos, o qual 
 - Banco de dados: Postgresql
 
 # Como executar o projeto
-
-## Back end
 Pré-requisitos: Java 17
 
 ```bash
