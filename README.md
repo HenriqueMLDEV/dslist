@@ -1,4 +1,4 @@
-# Projeto DSList -  Java Spring [Back-End
+# Projeto DSList -  Java Spring [Back-End]
 # Sobre o projeto
 
 Projeto Back-End utilizando o Framework Spring
