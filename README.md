@@ -29,7 +29,7 @@ git clone https://github.com/HenriqueMLDEV/dslist.git
 
 # 2 - entrar na pasta do projeto
 
-# 3 - executar o projeto pelo Spring Tools ou outra IDE compativil com Java Spring Boot
+# 3 - executar o projeto pelo Spring Tools ou outra IDE que aceite integração com Java Spring Boot
 
 ```
 
